@@ -18,3 +18,24 @@ body{
     background-color: #d68c4e;
 }
 
+
+.img-gral, .img-grali{
+    border-radius: 20px;
+    opacity: 0.9;
+}
+
+footer{
+    background-color: #e5b25d;
+}
+
+a{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 790px){
+    .img-grali{
+        display: none;
+    }
+    
+    
+}
